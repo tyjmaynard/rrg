@@ -1,6 +1,8 @@
 <!-- Heading 1 -->
 # Gorge(ou)s of Kentucky: Red River Gorge
 
+<!-- Nice research! 😀 -->
+
 <!-- First paragraph -->
 This page discusses a few interesting topics on the Red River Gorge Geological Area in Slade, Kentucky. We hope you learn a thing or two!
 
