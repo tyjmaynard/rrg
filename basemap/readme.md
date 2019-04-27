@@ -14,8 +14,6 @@ Local Environment
 Lower Entrance
 ![Side View](side_view.JPG)
 Side View
-![Close-up Side View](close_view.JPG)
-Close-up Side View
 ![Small Arch Underneath](little_arch.JPG)
 Small Arch Underneath
 ![Rear View](rear_view.JPG)
