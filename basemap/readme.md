@@ -5,13 +5,20 @@
 I chose to analyze Sky Bridge, a popular attraction at Red River Gorge. From my analytics,
 it appears to be between 85ft long, a width of about 18ft, and a depth of about 50ft. From a birdseye view, this gives it and estimated area of about 1,530 square feet. I would say this is close to the actual dimensions of the landform.
 
-![img](upper_entrance.JPG)
-![img](env.JPG)
-![img](lower_entrance.JPG)
-![img](side_view.JPG)
-![img](close_view.JPG)
-![img](little_arch.JPG)
-![img](rear_view.JPG)
+![Upper Entrance](upper_entrance.JPG)
+Upper Entrance
+![Local Environment](env.JPG)
+Local Environment
+![Lower Entrance](lower_entrance.JPG)
+Lower Entrance
+![Side View](side_view.JPG)
+Side View
+![Close-up Side View](close_view.JPG)
+Close-up Side View
+![Small Arch Underneath](little_arch.JPG)
+Small Arch Underneath
+![Rear View](rear_view.JPG)
+Rear View
 
 
 
