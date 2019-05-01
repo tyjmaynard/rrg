@@ -19,7 +19,7 @@ Small Arch Underneath
 ![Rear View](rear_view.JPG)
 Rear View
 
-Click [here](tyjmaynard.github.io/rrg) to visit my Red River Gorge page
+Click [here](https://tyjmaynard.github.io/rrg/) to visit my Red River Gorge page
 
 
 <!-- title="upper_entrance"  -->
